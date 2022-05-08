@@ -1,7 +1,7 @@
 {
-  "name": "config-manager-pwa",
-  "short_name": "config-manager-pwa",
-  "theme_color": "#1976d2",
+  "name": "Config Manager",
+  "short_name": "Config Manager",
+  "theme_color": "#424242",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
