@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652119192017,
+  "timestamp": 1652119685380,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -30,6 +30,7 @@
       },
       "urls": [
         "/assets/icons/Icon.afdesign",
+        "/assets/icons/favicon.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -45,6 +46,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/icons/Icon.afdesign": "def87b2133a9bead240ff3d3b8fd7e77bf83033d",
+    "/assets/icons/favicon.png": "6de5df6064c610879ba80e2df7ef277587220844",
     "/assets/icons/icon-128x128.png": "a5ce0f8edfae9144bfc2166c6d7b73be010070c8",
     "/assets/icons/icon-144x144.png": "1e94d2fd8c1d1723012d5908e0063341fca10e02",
     "/assets/icons/icon-152x152.png": "7cf30b600497d81a8e4ba2f002bba256f05c59fd",
@@ -54,7 +56,7 @@
     "/assets/icons/icon-72x72.png": "d8ac8fa347a7bd866677369eceb05a281af28ed6",
     "/assets/icons/icon-96x96.png": "3254c4718a84e9e8724f495ef02c15aa3d891abf",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "cbbe5e6cb1c5b2350792195119fa275e709d7b9b",
+    "/index.html": "dc423b92ef252505bc0785beb61df19e5dbec178",
     "/main.e96e0a5da21efcda.js": "f346b31ee55230fd09bdd63bcc90b712aa81f436",
     "/manifest.webmanifest": "6e725d924f13191fdad1a9e8317c6a3fde7f6d63",
     "/polyfills.08953eb1a6d4a7ab.js": "0bb14dcbaf9a50bda45ac28f073affff21614b91",
